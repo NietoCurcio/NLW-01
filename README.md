@@ -34,7 +34,7 @@ Enquanto na estrutura RESTful api, o frontend Framework cuida totalmente da part
 Uso do aplicativo expo para renderizar o app em desenvolvimento no celular.
 Uma parte muito interessante foi como fazer a conexão com o mapa, além de filtrar quais pontos devem aparecer no mapa com base no item de coleta que o usuario selecionar.
 
-<img src="Screenshots_gifs/mobileGif.gif" width = "400">
+<img src="Screenshots_gifs/mobileGif.gif" height = "400">
 
 ## Apresentação
 
