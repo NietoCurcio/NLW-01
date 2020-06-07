@@ -36,8 +36,6 @@ Uma parte muito interessante foi como fazer a conexão com o mapa, além de filt
 
 <img src="Screenshots_gifs/mobileGif.gif" height = "400">
 
-## Apresentação
-
 ### Navegação e performance
 Tanto no React quanto no React-Native se demonstra como fazer rotas entre 'Components' e melhorar a performance da navegação sem precisar recarregar as paginas inteiras.
 
