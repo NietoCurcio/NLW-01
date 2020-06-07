@@ -41,7 +41,7 @@ Uma parte muito interessante foi como fazer a conexão com o mapa, além de filt
 ### Navegação e performance
 Tanto no React quanto no React-Native se demonstra como fazer rotas entre 'Components' e melhorar a performance da navegação sem precisar recarregar as paginas inteiras.
 
-### Na última aula foi tratado sobre o envio de arquivos (para a imagem do ponto de coleta) e como validar dados no registro desses pontos.
+- Na última aula foi tratado sobre o envio de arquivos (para a imagem do ponto de coleta) e como validar dados no registro desses pontos.
 
 ### Não só isso, mas também foi adquirido várias dicas, conselhos e boas práticas para construção de projetos.
 Projeto apresentado pelo Diego Fernandes, CTO da Rocketseat.
