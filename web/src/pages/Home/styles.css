@@ -1,7 +1,7 @@
 #page-home {
     height: 100vh;
   
-    background: url('../../assets/home-background.svg') no-repeat 700px bottom;
+    background: url('../../assets/home-background.svg') no-repeat 550px bottom;
     /* notice how the the background image is taken in css and not in HTML with tag <img /> */
   }
   

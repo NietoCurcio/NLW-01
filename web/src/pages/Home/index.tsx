@@ -15,7 +15,7 @@ const Home = () => {
                 </header>
 
                 <main>
-                    <h1>Seu market place de coleta de </h1>
+                    <h1>Seu Marketplace de coleta de </h1>
                     <p>Ajudamos as pessoas a encontrarem pontos de coleta de forma eficiente.</p>
                     {/* <a href="/create-point">  era uma a tag e virou link pra funcionar o SPA*/}
                     <Link to="/create-point">
