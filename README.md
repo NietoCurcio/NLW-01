@@ -6,7 +6,7 @@ Estudei a construção desse projeto durante o Next Level Week #01.
 
 > Node.js, ReactJs, React-Native
 
- <img src="Screenshots/mainImage.png" width="400">
+ <img src="Screenshots_gifs/mainImage.png" width="400">
 
 ## Back-end
 
@@ -28,13 +28,13 @@ Também foi feita a conexão com API do IBGE para controlar a localização dos 
 Aprendi algumas diferenças entre a estrutura MVC (Model, View, Controller) e RESTful API, em que no MVC o backend renderiza também a parte visual, como templates, como nas Template Egines que possibilita enviar variaveis para o "html" (Jinja no caso do Flask, e Pug ou EJS no caso do Express por exemplo).
 Enquanto na estrutura RESTful api, o frontend Framework cuida totalmente da parte visual, apenas recebendo dados do backend no formato JSON ou multpart/form-data no caso de enviar Files também, esses dados enviados do backend podem ser recebidos tanto na web (React) quanto no Mobile (React Native).
 
-<img src="Screenshots/HomeGif.gif" width = "400">
+<img src="Screenshots_gifs/HomeGif.gif" width = "400">
 
 # Mobile
 Uso do aplicativo expo para renderizar o app em desenvolvimento no celular.
 Uma parte muito interessante foi como fazer a conexão com o mapa, além de filtrar quais pontos devem aparecer no mapa com base no item de coleta que o usuario selecionar.
 
-<img src="Screenshots/mobileGif.gif" width = "400">
+<img src="Screenshots_gifs/mobileGif.gif" width = "400">
 
 ## Apresentação
 
